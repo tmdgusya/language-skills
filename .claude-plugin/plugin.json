@@ -1,8 +1,11 @@
 {
   "name": "language-skills",
-  "description": "English prompt learning assistant - Records prompts and provides feedback",
+  "description": "영어 프롬프트 학습 도우미 - 어휘력 확장 및 자연스러운 표현 학습",
   "version": "1.0.0",
   "author": {
-    "name": "Team"
-  }
+    "name": "tmdgusya"
+  },
+  "repository": "https://github.com/tmdgusya/language-skills",
+  "license": "MIT",
+  "keywords": ["english", "learning", "vocabulary", "korean"]
 }

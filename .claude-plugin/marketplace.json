@@ -1,0 +1,23 @@
+{
+  "name": "language-skills",
+  "owner": {
+    "name": "tmdgusya"
+  },
+  "metadata": {
+    "description": "영어 프롬프트 학습을 도와주는 Claude Code 플러그인 모음"
+  },
+  "plugins": [
+    {
+      "name": "language-skills",
+      "source": "./",
+      "description": "영어 프롬프트 학습 도우미 - 어휘력 확장 및 자연스러운 표현 학습",
+      "version": "1.0.0",
+      "author": {
+        "name": "tmdgusya"
+      },
+      "repository": "https://github.com/tmdgusya/language-skills",
+      "license": "MIT",
+      "keywords": ["english", "learning", "vocabulary", "korean"]
+    }
+  ]
+}
