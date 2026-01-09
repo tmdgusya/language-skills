@@ -37,7 +37,7 @@ Claude Code 안에서 아래 명령어 실행:
 /plugin marketplace add tmdgusya/language-skills
 
 # 2. 플러그인 설치
-/plugin install language-skills@tmdgusya
+/plugin install language-skills@language-skills
 ```
 
 끝! 자동으로 설치되고 업데이트도 간편합니다.
